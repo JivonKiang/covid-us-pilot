@@ -1,0 +1,9 @@
+# raw data and large outputs are not committed
+data/raw/
+data/panel/*.csv
+data/panel/*.jsonl
+*.zip
+*.xlsx
+*.part
+__pycache__/
+*.pyc
